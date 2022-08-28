@@ -1,0 +1,11 @@
+1- Criar arquivo vazio do HTML. seguindo a estrutura padrão do HTML5 que o visualStudo fornece
+2- recriar estrutura HTML dentro da tag BODY que aprendemos nesse fim de semana
+3- Criar arquivo de estilo CSS 
+4- Estilizar tags H1, P, IMG e BUTTON
+5- Linkar arquivo de estilo com arquivo HTML
+6- Escolher pelo menos 10 espadas. Criar uma embaixo da outra no arquivo HTML
+7- Escrever um texto pra cada espada e achar uma imagem pra cada espada
+8- Pensar em qual interação poderia acontecer quando o usuário clickar no botão
+9- No futuro estilizar cada botão com as cores de cada espada. Usando classes em CSS
+10- Colocar uma interação no botão. Pra acontecer algo
+sim
