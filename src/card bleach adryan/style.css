@@ -1,0 +1,123 @@
+h1{
+    font-size:50pt;
+    color:blue;    
+}
+.Zangetsu{
+    color: darkturquoise;
+}
+
+.header {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+img {
+width: 100%;
+height: auto;
+overflow: hidden;
+}
+
+body {
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}
+p {
+    width: 100%;
+}
+
+.box {
+background-color: white;
+border-radius: 14px;
+padding: 25px;
+width: 42%;
+max-width: 100%;
+border: 1px solid blueviolet;
+margin-bottom: 6%;
+position: relative;
+
+}
+
+.period-label{
+    background-color: blueviolet;
+    border-radius: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    left: 10px;
+    top: 10px;
+    z-index: 2;
+    position: absolute
+}
+.box-footer {
+    display: flex;
+}
+.specs {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: initial;
+}
+
+button{
+    font-size:25px;
+    color:aqua;
+    background-color:blueviolet;
+}
+
+p strong{
+    font-size:20pt;
+}
+p{
+    font-size:20pt;
+}
+img{
+    height:500px;
+    width:500px;
+}
+.Zabimaru{
+    color: brown;
+}
+.Shirayuki{
+    color:darkgray
+}
+.Habilidades{
+    color: darkgreen;
+    font-size:20pt;
+} 
+
+.Senbonzakura{
+    color: palevioletred;
+}
+    
+.Nozarashi{
+    color: yellow;
+}
+.SenpoKenjuu{
+    color: palevioletred;
+}
+.Benihime{
+    color:darkred;
+}
+.Hyourinmaru{
+    color: aquamarine;
+}
+.KatenKyoukotsu{
+    color: dimgrey;
+}
+.SogyonoKotowari{
+    color: aquamarine;
+}
+
