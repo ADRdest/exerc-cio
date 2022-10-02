@@ -1,122 +1,153 @@
-h1{
-    font-size:50pt;
-    color:blue;    
-}
+
 .Zangetsu{
     color: darkturquoise;
 }
 
 .header {
-    width: 100%;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+width:100%;
+height:auto;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction:column;
 
 }
 
 img {
-width: 100%;
-height: auto;
-overflow: hidden;
+width:100%;
+height:auto;
+overflow:hidden;
 }
 
 body {
-text-align: center;
-display: flex;
-align-items: center;
-justify-content: center;
-flex-direction: column;
-
+text-align:center;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction:column;
 }
+
 p {
-    width: 100%;
+font-size:small;
 }
 
 .box {
-background-color: white;
-border-radius: 14px;
-padding: 25px;
-width: 42%;
-max-width: 100%;
-border: 1px solid blueviolet;
-margin-bottom: 6%;
-position: relative;
+background-color:white;
+border-radius:14px;
+padding:25px;
+width:42%;
+
+border:1px solid blueviolet;
+margin-bottom:6%;
+position:relative;
 
 }
 
 .period-label{
-    background-color: blueviolet;
-    border-radius: 40px;
-    text-transform: uppercase;
-    text-align: center;
-    color: white;
-    font-weight: 700;
-    padding: 10px 20px;
-    left: 10px;
-    top: 10px;
-    z-index: 2;
-    position: absolute
+background-color:blueviolet;
+border-radius:40px;
+text-transform:uppercase;
+text-align:center;
+color:white;
+font-weight:700;
+padding:10px 20px;
+left:10px;
+top:10px;
+z-index:2;
+position:absolute
 }
+
 .box-footer {
-    display: flex;
+display:flex;
 }
+
 .specs {
-    width: 100%;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: initial;
+    width:100%;
+    height:auto;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    text-align:initial;
 }
 
 button{
-    font-size:25px;
-    color:aqua;
-    background-color:blueviolet;
+font-size:25px;
+color:aqua;
+ background-color:blueviolet;
 }
 
-p strong{
-    font-size:20pt;
-}
-p{
-    font-size:20pt;
-}
+
 img{
-    height:500px;
-    width:500px;
+height:500px;
+width:500px;
 }
+
+.page-header{
+    background-color: blueviolet;
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content:center;
+    margin-bottom:6%;
+    
+    
+}
+
+.page-content{
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+   
+    justify-content: space-around;
+}
+
+
+.page-footer{
+    background-color:crimson;
+    width:100%;
+    height:50px;
+    display:flex;
+    justify-content:center;
+    
+}
+
+
+
+
+
+.Shirayuki{
+color:darkgray
+}
+
 .Zabimaru{
     color: brown;
 }
-.Shirayuki{
-    color:darkgray
-}
-.Habilidades{
-    color: darkgreen;
-    font-size:20pt;
-} 
 
 .Senbonzakura{
     color: palevioletred;
 }
-    
+
 .Nozarashi{
     color: yellow;
 }
+
 .SenpoKenjuu{
     color: palevioletred;
 }
+
 .Benihime{
     color:darkred;
 }
+
 .Hyourinmaru{
     color: aquamarine;
 }
+
 .KatenKyoukotsu{
     color: dimgrey;
 }
+
 .SogyonoKotowari{
     color: aquamarine;
 }
