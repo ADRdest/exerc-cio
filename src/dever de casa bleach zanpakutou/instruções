@@ -8,4 +8,11 @@
 8- Pensar em qual interação poderia acontecer quando o usuário clickar no botão (colocar um som de golpe da espada)
 9- No futuro estilizar cada botão com as cores de cada espada. Usando classes em CSS
 10- Colocar uma interação no botão. Pra acontecer algo
-sim
+
+parte 2
+tunar o header
+tunar o footer
+baixar os sons e colocar na pasta áudio
+ criar minha logo
+ trocar as habilidades das espadas por status
+ criar os status dentro da tag P
